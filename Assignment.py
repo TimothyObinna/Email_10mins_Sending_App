@@ -3,8 +3,8 @@ from email.message import EmailMessage
 import time
 import datetime
 
-sender_email = 'ionyolu2757@gmail.com'
-password = 'xbxqmazblaztnutf'
+sender_email = 'ewatimothyobinna@gmail.com'
+password = 'wqfmbevelwqzwjpm'
 receiver_email = ['soulcleansing96@gmail.com', 'etoontop@gmail.com','joshlove00001@gmail.com', 'anthonyonyolu@gmail.com']
 subject = 'Email Testing'
 
